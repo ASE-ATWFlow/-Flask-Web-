@@ -1,1 +1,2 @@
-《Mastering Flask Web Development 2nd Edition》译文
+《Mastering Flask Web Development 2nd Edition》译文初稿
+持续更新中...
